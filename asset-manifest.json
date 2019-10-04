@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_dynamic-list-of-todos/static/css/main.efbf4300.chunk.css",
-    "main.js": "/react_dynamic-list-of-todos/static/js/main.966effc3.chunk.js",
-    "main.js.map": "/react_dynamic-list-of-todos/static/js/main.966effc3.chunk.js.map",
-    "runtime~main.js": "/react_dynamic-list-of-todos/static/js/runtime~main.b6f1ef06.js",
-    "runtime~main.js.map": "/react_dynamic-list-of-todos/static/js/runtime~main.b6f1ef06.js.map",
-    "static/js/2.ce26bd04.chunk.js": "/react_dynamic-list-of-todos/static/js/2.ce26bd04.chunk.js",
-    "static/js/2.ce26bd04.chunk.js.map": "/react_dynamic-list-of-todos/static/js/2.ce26bd04.chunk.js.map",
-    "index.html": "/react_dynamic-list-of-todos/index.html",
-    "precache-manifest.328961a0aab871073556e13fe9036f1f.js": "/react_dynamic-list-of-todos/precache-manifest.328961a0aab871073556e13fe9036f1f.js",
-    "service-worker.js": "/react_dynamic-list-of-todos/service-worker.js",
-    "static/css/main.efbf4300.chunk.css.map": "/react_dynamic-list-of-todos/static/css/main.efbf4300.chunk.css.map",
-    "static/media/TodoItem.css": "/react_dynamic-list-of-todos/static/media/ch.1fdd2ebf.svg",
-    "static/media/User.css": "/react_dynamic-list-of-todos/static/media/id-card.63cb4921.svg"
+    "main.css": "/react_redux-list-of-todos/static/css/main.cc38edd0.chunk.css",
+    "main.js": "/react_redux-list-of-todos/static/js/main.d42a58bc.chunk.js",
+    "main.js.map": "/react_redux-list-of-todos/static/js/main.d42a58bc.chunk.js.map",
+    "runtime~main.js": "/react_redux-list-of-todos/static/js/runtime~main.054cc81e.js",
+    "runtime~main.js.map": "/react_redux-list-of-todos/static/js/runtime~main.054cc81e.js.map",
+    "static/js/2.51d9639a.chunk.js": "/react_redux-list-of-todos/static/js/2.51d9639a.chunk.js",
+    "static/js/2.51d9639a.chunk.js.map": "/react_redux-list-of-todos/static/js/2.51d9639a.chunk.js.map",
+    "index.html": "/react_redux-list-of-todos/index.html",
+    "precache-manifest.ef6f636eb3b3cdb10ebc22b4adaac495.js": "/react_redux-list-of-todos/precache-manifest.ef6f636eb3b3cdb10ebc22b4adaac495.js",
+    "service-worker.js": "/react_redux-list-of-todos/service-worker.js",
+    "static/css/main.cc38edd0.chunk.css.map": "/react_redux-list-of-todos/static/css/main.cc38edd0.chunk.css.map",
+    "static/media/TodoItem.css": "/react_redux-list-of-todos/static/media/ch.1fdd2ebf.svg",
+    "static/media/User.css": "/react_redux-list-of-todos/static/media/id-card.63cb4921.svg"
   }
 }
